@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'TTNormsBold'; 
+    src: local('TTNormsBold'),
+        url('./assets/fonts/TTNorms-Bold.eot') format('eot'),
+        url('./assets/fonts/TTNorms-Bold.ttf') format('ttf'),
+        url('./assets/fonts/TTNorms-Bold.woff') format('woff'),
+        url('./assets/fonts/TTNorms-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TTNormsMedium';
+    src: local('TTNormsMedium'),
+        url('./assets/fonts/TTNorms-Medium.eot') format('eot'),
+        url('./assets/fonts/TTNorms-Medium.ttf') format('ttf'),
+        url('./assets/fonts/TTNorms-Medium.woff') format('woff'),
+        url('./assets/fonts/TTNorms-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'TTNormsRegular';
+    src: local('TTNormsRegular'),
+        url('./assets/fonts/TTNorms-Regular.eot') format('eot'),
+        url('./assets/fonts/TTNorms-Regular.ttf') format('ttf'),
+        url('./assets/fonts/TTNorms-Regular.woff') format('woff'),
+        url('./assets/fonts/TTNorms-Regular.woff2') format('woff2');
+}
